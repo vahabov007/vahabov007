@@ -1,3 +1,6 @@
-I’m a passionate beginner in Java 💻, excited to dive into the world of programming and sharpen my skills by building creative and impactful applications 🌟. With a strong curiosity for problem-solving 🧠, I’m constantly exploring new ways to improve my coding abilities.
+I am a self-driven and detail-oriented developer with a growing expertise in Java and backend development.
+Over the past months, I have consistently worked on improving my programming skills by developing real-world applications — including a fully functional personal website built with Java (Spring Boot), REST APIs, PostgreSQL, and Docker. This experience has strengthened my understanding of web technologies and software architecture.
 
-Besides Java, I am also proficient in Python 🐍, which has allowed me to tackle a variety of programming challenges. As I continue to grow, I aim to bridge my knowledge of both languages to develop efficient, scalable solutions 🚀. I’m eager to collaborate with others and take on new challenges to broaden my expertise and contribute to innovative projects 💡.
+In addition to Java, I also have practical experience with Python and basic frontend tools such as HTML, CSS, JavaScript, Tailwind CSS, and Thymeleaf. I approach programming with a problem-solving mindset and a strong desire to learn and improve continuously. I enjoy combining both backend logic and user-facing interfaces to build complete, responsive applications.
+
+As I continue my journey, I aim to deepen my knowledge of scalable system design, clean code principles, and modern development practices, while collaborating with others and contributing to meaningful projects.
