@@ -19,7 +19,7 @@ I enjoy combining backend logic and user-facing interfaces to build complete and
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,git,html,css,js,tailwind,thymeleaf,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,git,html,css,js,tailwind,cpp,python" />
 </p>
 
 ---
