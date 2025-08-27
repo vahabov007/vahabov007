@@ -1,4 +1,4 @@
-#                   Vahab Vahabov | Backend Developer  
+<h1 align="center">Vahab Vahabov | Backend Developer</h1>  
 
 **I am a self-driven and detail-oriented developer with a growing expertise in Java and backend development.**  
 Over the past months, I have consistently worked on improving my programming skills by developing real-world applications — including a fully functional personal website built with **Java (Spring Boot)**, **REST APIs**, **PostgreSQL**, and **Docker**. This experience has strengthened my understanding of **web technologies** and **software architecture**.  
@@ -8,4 +8,5 @@ I approach programming with a **problem-solving mindset** and a **strong desire 
 
 As I continue my journey, I aim to deepen my knowledge of **scalable system design**, **clean code principles**, and **modern development practices**, while collaborating with others and contributing to meaningful projects.  
 
-🔗 You can see more information on my personal website: [vahabvahabov.site](https://www.vahabvahabov.site/)  
+<p align="center">🔗 You can see more information on my personal website:  
+<a href="https://www.vahabvahabov.site/">vahabvahabov.site</a></p>
