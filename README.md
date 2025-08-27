@@ -11,7 +11,7 @@ I am a **self-driven and detail-oriented developer** with growing expertise in *
 Over the past months, I have been improving my programming skills by working on real-world projects, including a fully functional personal website built with **Java (Spring Boot)**, **REST APIs**, **PostgreSQL**, and **Docker**.  
 This experience has strengthened my understanding of **web technologies** and **software architecture**.  
 
-In addition to Java, I have practical experience with **Python** and basic frontend tools like **HTML, CSS, JavaScript, Tailwind CSS, and Thymeleaf**.  
+In addition to Java, I have practical experience with **C++**, **Python**, and basic frontend tools like **HTML, CSS, JavaScript, Tailwind CSS, and Thymeleaf**.  
 I approach programming with a **problem-solving mindset** and a **strong desire to learn and improve continuously**.  
 I enjoy combining backend logic and user-facing interfaces to build complete and **responsive applications**.  
 
@@ -19,7 +19,7 @@ I enjoy combining backend logic and user-facing interfaces to build complete and
 
 ## 🛠️ Skills
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,git,html,css,js,tailwind,thymeleaf" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgresql,docker,git,html,css,js,tailwind,thymeleaf,cpp,python" />
 </p>
 
 ---
